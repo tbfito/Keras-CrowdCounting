@@ -1,0 +1,15 @@
+
+DNNC Kernel Information
+
+1. Overview
+kernel numbers  : 1
+kernel topology : resnet_kernel_graph.jpg
+
+2. Kernel Description in Detail
+kernel id       : 0
+kernel name     : resnet
+type            : DPUKernel
+nodes           : NA
+input node(s)   : conv_convolution(0) 
+output node(s)  : conv2d_2_convolution(0) 
+
